@@ -1,4 +1,4 @@
-<h1 align="center">Chat GPT Discord Bot</h1>
+<h1 align="center">Chat GPT Discord Bot-- FORK BY MATTYJ</h1>
 
 <div align="center">
     <a href="https://github.com/iTzArshia/GPT-Discord-Bot/stargazers"> <img src="https://img.shields.io/github/stars/iTzArshia/GPT-Discord-Bot.svg" alt="GitHub stars"/> </a>
